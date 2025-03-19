@@ -1,9 +1,8 @@
 # emoji-screensaver
 An Emoji based screensaver in VueJS
 
-# emoji-screensaver
+![image](https://github.com/user-attachments/assets/2e54e832-e21d-45d6-b319-665423ff505c)
 
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
